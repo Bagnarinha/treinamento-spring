@@ -1,0 +1,1 @@
+INSERT INTO FORNECEDOR(endereco, estado, nome) VALUES('rua dos bobos', 'BB', 'Chupa-Cabra');
